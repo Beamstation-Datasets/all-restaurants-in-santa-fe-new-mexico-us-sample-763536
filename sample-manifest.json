@@ -1,0 +1,12 @@
+{
+  "export_job_id": "11528db2-154f-4824-abbb-c396dc5f03fc",
+  "id_short": 763536,
+  "published_at": "2026-04-15T19:14:40Z",
+  "repo_name": "all-restaurants-in-santa-fe-new-mexico-us-sample-763536",
+  "sample_asset_name": "beamstation_763536_restaurants-us-nm_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/763536/beamstation_763536_restaurants-us-nm_SAMPLE_DIST.csv",
+  "sample_records": 38,
+  "sample_sha256": "1d42221860c834392a5b9b1ca7f0039b7c084632fa878e9d676c42c2b5517fe9",
+  "sample_size_bytes": 147607,
+  "total_records": 388
+}
