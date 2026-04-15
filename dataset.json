@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Santa Fe, New Mexico. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Santa Fe, New Mexico, US",
+  "export_job_id": "11528db2-154f-4824-abbb-c396dc5f03fc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 763536,
+  "location_name": "Santa Fe",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-santa-fe-new-mexico-us-sample-763536",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/763536/beamstation_763536_restaurants-us-nm_SAMPLE_DIST.csv",
+  "sample_pct": 9.79,
+  "sample_records": 38,
+  "sample_sha256": "1d42221860c834392a5b9b1ca7f0039b7c084632fa878e9d676c42c2b5517fe9",
+  "sample_size_bytes": 147607,
+  "total_records": 388,
+  "updated_at": "2026-04-07T12:31:40.040074+00:00"
+}
