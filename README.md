@@ -9,9 +9,9 @@
 | Dataset ID | `763536` |
 | Location | Santa Fe |
 | Category | Restaurants |
-| Full dataset size | 388 records |
-| Free sample size | 38 records (9.79%) |
-| Last export | 2026-04-07T12:31:40.040074+00:00 |
+| Full dataset size | 383 records |
+| Free sample size | 38 records (9.92%) |
+| Last export | 2026-04-14T12:23:42.407559+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-fe-new-mexico-us-sample-763536/releases/download/sample-latest/beamstation_763536_restaurants-us-nm_SAMPLE_DIST.csv) |
 
 ## What is in this sample
