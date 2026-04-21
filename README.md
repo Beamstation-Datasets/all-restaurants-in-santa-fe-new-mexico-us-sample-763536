@@ -1,6 +1,6 @@
 # All Restaurants in Santa Fe, New Mexico, US
 
-> Free BeamStation sample export with 38 rows and masked direct-contact fields.
+> Free BeamStation sample export with 35 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `763536` |
 | Location | Santa Fe |
 | Category | Restaurants |
-| Full dataset size | 383 records |
-| Free sample size | 38 records (9.92%) |
-| Last export | 2026-04-14T12:23:42.407559+00:00 |
+| Full dataset size | 359 records |
+| Free sample size | 35 records (9.75%) |
+| Last export | 2026-04-21T13:09:16.693595+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-fe-new-mexico-us-sample-763536/releases/download/sample-latest/beamstation_763536_restaurants-us-nm_SAMPLE_DIST.csv) |
 
 ## What is in this sample
